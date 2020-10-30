@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jogesh_k_muppala@bitbucket.org/jogesh_k_muppala/git-test.git"
+    "url": "git+https://git@github.com:douganddeb3/git-test2.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jogesh_k_muppala/git-test#readme",
+  "homepage": "https://github.com/douganddeb3/git-test2.git",
   "devDependencies": {
     "lite-server": "^2.2.2"
   }
